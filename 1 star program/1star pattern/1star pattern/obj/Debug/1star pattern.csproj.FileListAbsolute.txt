@@ -1,0 +1,7 @@
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\bin\Debug\1star pattern.exe.config
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\bin\Debug\1star pattern.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\bin\Debug\1star pattern.pdb
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\obj\Debug\1star pattern.csproj.AssemblyReference.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\obj\Debug\1star pattern.csproj.CoreCompileInputs.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\obj\Debug\1star pattern.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\1 star program\1star pattern\1star pattern\obj\Debug\1star pattern.pdb
